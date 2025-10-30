@@ -1,10 +1,4 @@
 # JournalApp-SpringBoot-
-Perfect 👍
-Your project is a **Spring Boot Java application** named **`journalApp`** — it includes controllers, services, entities, and repositories for handling journal entries and users, plus configuration and health check components.
-
-Here’s a clean and professional **`README.md`** for your GitHub repository:
-
----
 
 ## 📝 Journal App
 
@@ -113,4 +107,4 @@ The app will start on **`http://localhost:8080`** 🚀
 
 ---
 
-Would you like me to tailor this README for **deployment (e.g., Render/Heroku/AWS)** or keep it focused on **local development setup**?
+
